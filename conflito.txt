@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 olá, tudo bem?
+=======
+olá, tudo bem?
+>>>>>>> 62a8f2402c54a6f44c5292f98ce6c376304b36d2
